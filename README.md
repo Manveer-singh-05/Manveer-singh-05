@@ -123,8 +123,16 @@ const Manveer = {
 
 ---
 
-📘 Coding Statistics (LeetCode)
-<p align="center"> <img src="https://leetcard.jacoblin.cool/Manveer-singh-05?theme=dark&font=Karma&ext=heatmap" /> </p>
+
+## 📘 Coding Statistics (LeetCode)
+
+<p align="center">
+  <a href="https://leetcode.com/u/manveersingh0501l/">
+    <img src="https://leetcard.jacoblin.cool/manveersingh0501l?theme=dark&ext=heatmap" alt="LeetCode Heatmap"/>
+  </a>
+</p>
+
+
 
 ---
 
