@@ -135,13 +135,34 @@ const Manveer = {
 
 ---
 
-## 📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manveer-singh-05&theme=monokai-metallian&hide_border=true" width="500" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Manveer-singh-05&show_icons=true&theme=radical&hide_border=true" width="500"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manveer-singh-05&theme=react-dark&hide_border=true"/> </p>
+## 📊 GitHub Analytics & Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manveer-singh-05&theme=tokyonight&hide_border=true" height="220" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Manveer-singh-05?template=classic&base.indepth=true&config.timezone=Asia%2FKolkata" />
+</p>
+
+
+
+---
+
+## 🗂️ Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manveer-singh-05&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Manveer-singh-05&theme=onestar&no-frame=true&row=1&margin-w=15"/> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manveer-singh-05&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+</p>
+
+
+
 
 ---
 
