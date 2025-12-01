@@ -66,7 +66,22 @@ const Manveer = {
 
 🌐 Connect With Me On Social Media
 
-<p> <a href="https://instagram.com" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://github.com/Manveer-singh-05" target="_blank"> <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:manveersingh@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> 
+<p align="center">
+
+  <a href="https://www.facebook.com/profile.php?id=100081616061226" target="_blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/_manveer_singh_05/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/singh_manveer05" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+</p>
+
 
 ---
 
