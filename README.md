@@ -28,3 +28,36 @@ const Manveer = {
     tools: ["Git", "Linux", "VS Code"]
   }
 };
+```
+---
+
+📊 GitHub Statistics
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manveer-singh-05&theme=monokai-metallian&hide_border=true" width="500" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Manveer-singh-05&show_icons=true&theme=radical&hide_border=true" width="500"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manveer-singh-05&theme=react-dark&hide_border=true"/> </p>
+
+---
+
+🏆 GitHub Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Manveer-singh-05&theme=onestar&no-frame=true&row=1&margin-w=15"/> </p>
+
+---
+
+📘 Coding Statistics (LeetCode)
+<p align="center"> <img src="https://leetcard.jacoblin.cool/Manveer-singh-05?theme=dark&font=Karma&ext=heatmap" /> </p>
+
+---
+
+🚀 Featured Project
+⭐ StudyFun Hub
+
+A user-friendly, interactive learning platform built to organize resources and simplify study routines.
+
+🔗 GitHub Repository:
+https://github.com/Manveer-singh-05/StudyFun-Hub
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manveer-singh-05&repo=StudyFun-Hub&theme=radical&hide_border=true"/> </p>
+
+---
+
+🤝 Connect With Me
+<p align="center"> <a href="https://leetcode.com/Manveer-singh-05/"><img src="https://img.shields.io/badge/LEETCODE-E8B600?style=for-the-badge&logo=leetcode&logoColor=white"/></a> <a href="https://github.com/Manveer-singh-05"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:manveersingh@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+<!-- Footer --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:FDC830&height=150&section=footer" /> 
