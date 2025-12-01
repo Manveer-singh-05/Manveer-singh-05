@@ -11,61 +11,56 @@
 
 ---
 
+
+
 ## 🚀 About Me
 
-<table>
+<table width="100%" style="table-layout: fixed;">
+<colgroup>
+  <col span="1" style="width: 50%;">
+  <col span="1" style="width: 50%;">
+</colgroup>
+
 <tr>
 
-<!-- LEFT SIDE -->
-<td style="width: 55%; vertical-align: top; padding: 10px;">
+<!-- LEFT -->
+<td valign="top">
 
-<pre style="
+<div style="
 background-color:#0d1117;
 padding: 20px;
 border-radius: 10px;
 border: 1px solid #30363d;
-overflow: auto;
-font-size: 14px;
+overflow-x: auto;
+white-space: nowrap;
 ">
-<code>
+
+```js
 const Manveer = {
   pronouns: "He/Him",
   location: "India 🇮🇳",
   role: "Full Stack Developer",
   currentlyLearning: ["MERN", "Advanced DSA"],
-  workingOn: "Building interactive, responsive, and scalable applications",
+  workingOn: "Building responsive, scalable applications",
   askMeAbout: ["Web Development", "DSA"],
   technologies: {
     languages: ["JavaScript", "Java", "C++"],
-    frontend: ["React.js", "Next.js", "TailwindCSS", "HTML5", "CSS3"],
+    frontend: ["React.js","BootStrap","TailwindCSS", "HTML5", "CSS3"],
     backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
     tools: ["Git", "Linux", "VS Code"],
   },
 };
-</code>
-</pre>
+```
+</div> </td> <!-- RIGHT --> <td align="center" valign="middle">
+<img src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" style="width: 100%; max-width: 360px; border-radius: 8px;" />
 
-</td>
-
-<!-- RIGHT SIDE -->
-<td style="width: 45%; text-align: center; padding: 10px; vertical-align: middle;">
-
-<img src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
-width="350" style="border-radius: 8px;"/>
-
-</td>
-
-</tr>
-</table>
-
-
-
+</td> </tr> </table> 
 
 ---
 
 🔗 Portfolio
 
-Coming Soon… (or add link here if you have one)
+<p>Coming Soon… (or add link here if you have one)</p>
 
 ---
 
