@@ -12,9 +12,22 @@
 ---
 
 ## 🚀 About Me
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-<div style="flex: 1;">
-```js
+
+<div style="display: flex; gap: 20px; align-items: center;">
+
+  <!-- Left Code Box -->
+  <div style="
+    flex: 1; 
+    background-color: #0d1117; 
+    padding: 20px; 
+    border-radius: 10px; 
+    border: 1px solid #30363d;
+    font-size: 14px;
+    overflow: auto;
+  ">
+    
+<pre>
+<code>
 const Manveer = {
   pronouns: "He/Him",
   location: "India 🇮🇳",
@@ -24,13 +37,23 @@ const Manveer = {
   askMeAbout: ["Web Development", "DSA"],
   technologies: {
     languages: ["JavaScript", "Java", "C++"],
-    frontend: ["React.js", "Express.js", "TailwindCSS", "HTML5", "CSS3"],
+    frontend: ["React.js", "Next.js", "TailwindCSS", "HTML5", "CSS3"],
     backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
-    tools: ["Git", "Linux", "VS Code"]
-  }
+    tools: ["Git", "Linux", "VS Code"],
+  },
 };
-```
-</div> <!-- Right Side Image --> <div style="flex: 1; text-align: center;"> <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-5941097-4919851.png" width="350"> </div> </div>
+</code>
+</pre>
+
+  </div>
+
+  <!-- Right Image -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-5941097-4919851.png" width="350" />
+  </div>
+
+</div>
+
 
 ---
 
