@@ -12,7 +12,8 @@
 ---
 
 ## 🚀 About Me
-
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+<div style="flex: 1;">
 ```js
 const Manveer = {
   pronouns: "He/Him",
@@ -29,6 +30,20 @@ const Manveer = {
   }
 };
 ```
+</div> <!-- Right Side Image --> <div style="flex: 1; text-align: center;"> <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-5941097-4919851.png" width="350"> </div> </div>
+
+---
+
+🔗 Portfolio
+
+Coming Soon… (or add link here if you have one)
+
+---
+
+🌐 Connect With Me On Social Media
+
+<p> <a href="https://instagram.com" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://github.com/Manveer-singh-05" target="_blank"> <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:manveersingh@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> 
+
 ---
 
 ## 🛠 Technology Stack
