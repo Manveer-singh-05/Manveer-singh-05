@@ -13,20 +13,20 @@
 
 ## 🚀 About Me
 
-<div style="display: flex; gap: 20px; align-items: center;">
+<table>
+<tr>
 
-  <!-- Left Code Box -->
-  <div style="
-    flex: 1; 
-    background-color: #0d1117; 
-    padding: 20px; 
-    border-radius: 10px; 
-    border: 1px solid #30363d;
-    font-size: 14px;
-    overflow: auto;
-  ">
-    
-<pre>
+<!-- LEFT SIDE -->
+<td style="width: 55%; vertical-align: top; padding: 10px;">
+
+<pre style="
+background-color:#0d1117;
+padding: 20px;
+border-radius: 10px;
+border: 1px solid #30363d;
+overflow: auto;
+font-size: 14px;
+">
 <code>
 const Manveer = {
   pronouns: "He/Him",
@@ -45,14 +45,20 @@ const Manveer = {
 </code>
 </pre>
 
-  </div>
+</td>
 
-  <!-- Right Image -->
-  <div style="flex: 1; text-align: center;">
-    <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-5941097-4919851.png" width="350" />
-  </div>
+<!-- RIGHT SIDE -->
+<td style="width: 45%; text-align: center; padding: 10px; vertical-align: middle;">
 
-</div>
+<img src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
+width="350" style="border-radius: 8px;"/>
+
+</td>
+
+</tr>
+</table>
+
+
 
 
 ---
