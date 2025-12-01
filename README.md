@@ -64,7 +64,7 @@ const Manveer = {
 
 ---
 
-🌐 Connect With Me On Social Media
+## 🌐 Connect With Me On Social Media
 
 <p align="center">
 
@@ -93,6 +93,10 @@ const Manveer = {
 <p align="center">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ---
@@ -100,10 +104,11 @@ const Manveer = {
 ### 🔹 Frontend Technologies  
 <p align="center">
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
@@ -114,6 +119,8 @@ const Manveer = {
   <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -122,18 +129,18 @@ const Manveer = {
 <p align="center">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20CODE-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manveer-singh-05&theme=monokai-metallian&hide_border=true" width="500" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Manveer-singh-05&show_icons=true&theme=radical&hide_border=true" width="500"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manveer-singh-05&theme=react-dark&hide_border=true"/> </p>
 
 ---
 
-🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Manveer-singh-05&theme=onestar&no-frame=true&row=1&margin-w=15"/> </p>
 
 ---
@@ -172,6 +179,6 @@ https://github.com/Manveer-singh-05/StudyFun-Hub
 
 ---
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 <p align="center"> <a href="https://leetcode.com/Manveer-singh-05/"><img src="https://img.shields.io/badge/LEETCODE-E8B600?style=for-the-badge&logo=leetcode&logoColor=white"/></a> <a href="https://github.com/Manveer-singh-05"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:manveersingh@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 <!-- Footer --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:FDC830&height=150&section=footer" /> 
