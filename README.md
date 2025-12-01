@@ -136,15 +136,24 @@ const Manveer = {
 
 ---
 
-🚀 Featured Project
-⭐ StudyFun Hub
+## 🚀 Featured Project — ⭐ StudyFun Hub
 
 A user-friendly, interactive learning platform built to organize resources and simplify study routines.
 
-🔗 GitHub Repository:
+🔗 **Live Website:**  
+http://studyfunhub.wuaze.com/
+
+🔗 **GitHub Repository:**  
 https://github.com/Manveer-singh-05/StudyFun-Hub
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manveer-singh-05&repo=StudyFun-Hub&theme=radical&hide_border=true"/> </p>
+<p align="center">
+  <a href="https://github.com/Manveer-singh-05/StudyFun-Hub">
+    <img src="https://img.shields.io/badge/StudyFun%20Hub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
+
 
 ---
 
