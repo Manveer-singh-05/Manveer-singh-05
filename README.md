@@ -138,8 +138,10 @@ const Manveer = {
 ## 📊 GitHub Analytics & Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Manveer-singh-05&theme=tokyonight&hide_border=true" height="220" />
+  <img src="https://streak-stats.demolab.com?user=Manveer-singh-05&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
+
+
 
 
 <p align="center">
