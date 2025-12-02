@@ -138,8 +138,9 @@ const Manveer = {
 ## 📊 GitHub Analytics & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manveer-singh-05&theme=tokyonight&hide_border=true" height="220" />
+  <img src="https://streak-stats.demolab.com?user=Manveer-singh-05&theme=tokyonight&hide_border=true" height="220" />
 </p>
+
 
 <p align="center">
   <img src="https://metrics.lecoq.io/Manveer-singh-05?template=classic&base.indepth=true&config.timezone=Asia%2FKolkata" />
