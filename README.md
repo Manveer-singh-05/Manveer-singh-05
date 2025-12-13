@@ -60,7 +60,7 @@ const Manveer = {
 
 🔗 Portfolio
 
-<p>Coming Soon… (or add link here if you have one)</p>
+<p>Coming Soon… </p>
 
 ---
 
