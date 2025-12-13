@@ -204,5 +204,5 @@ https://github.com/Manveer-singh-05/StudyFun-Hub
 ---
 
 ## 🤝 Connect With Me
-<p align="center"> <a href="https://leetcode.com/Manveer-singh-05/"><img src="https://img.shields.io/badge/LEETCODE-E8B600?style=for-the-badge&logo=leetcode&logoColor=white"/></a> <a href="https://github.com/Manveer-singh-05"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:manveersingh@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+<p align="center"> <a href="https://leetcode.com/manveersingh0501l/"><img src="https://img.shields.io/badge/LEETCODE-E8B600?style=for-the-badge&logo=leetcode&logoColor=white"/></a> <a href="https://github.com/Manveer-singh-05"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:manveersingh@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 <!-- Footer --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:FDC830&height=150&section=footer" /> 
