@@ -161,9 +161,14 @@ const Manveer = {
 ---
 
 ## 🏆 GitHub Achievements
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Manveer-singh-05&theme=onedark" />
+</p> -->
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Manveer-singh-05&theme=onedark&no-frame=true&row=1&margin-w=15" />
 </p>
+
+
 
 
 
