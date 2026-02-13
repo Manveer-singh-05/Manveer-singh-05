@@ -59,9 +59,7 @@ const Manveer = {
 ---
 
 🔗 Portfolio
-<p>
-  <a href = "https://manveer-portfolio.vercel.app" target = "_blank">  </a>
-</p>
+  https://manveer-portfolio.vercel.app
 
 
 ---
