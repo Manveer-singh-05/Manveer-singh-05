@@ -144,9 +144,10 @@ const Manveer = {
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://metrics.lecoq.io/Manveer-singh-05?template=classic&base.indepth=true&config.timezone=Asia%2FKolkata" />
-</p>
+</p> -->
+
 
 
 
@@ -161,8 +162,10 @@ const Manveer = {
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manveer-singh-05&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Manveer-singh-05&theme=onedark" />
 </p>
+
+
 
 
 
