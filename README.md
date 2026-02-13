@@ -60,7 +60,7 @@ const Manveer = {
 
 🔗 Portfolio
 
-<p>Coming Soon… </p>
+<a href = "https://manveer-portfolio.vercel.app">  </a>
 
 ---
 
