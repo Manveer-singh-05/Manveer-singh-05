@@ -144,9 +144,7 @@ const Manveer = {
 
 
 
-<!-- <p align="center">
-  <img src="https://metrics.lecoq.io/Manveer-singh-05?template=classic&base.indepth=true&config.timezone=Asia%2FKolkata" />
-</p> -->
+
 
 
 
